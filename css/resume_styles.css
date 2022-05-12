@@ -1,0 +1,28 @@
+body {
+  background-color: #EAF6F6;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+table, td, th {
+  border: 1px solid;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+td, th {
+  padding: 5px;
+}
+
+h2, h3 {
+  color: #66BFBF;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  height: 0px;
+}
