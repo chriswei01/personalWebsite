@@ -64,8 +64,8 @@ strong {
 
 .top-cloud {
   position: absolute;
-  right: 200px;
-  top: 50px;
+  right: 20%;
+  top: 5%;
 }
 
 .middle-container {
@@ -78,19 +78,19 @@ strong {
 
 .bottom-cloud {
   position: absolute;
-  left: 200px;
-  bottom: 300px;
+  left: 10%;
+  bottom: 30%;
 }
 
 .mountain {
-  width: 100%;
+  width: 50%;
 }
 
 .skill-row {
   /* margin: top right bottom left (clockwise) 
   margin: top-bottom right-left*/
   margin: 100px auto 100px auto;
-  width: 50%;
+  width: 80%;
   text-align: left;
 }
 
