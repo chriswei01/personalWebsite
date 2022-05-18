@@ -82,6 +82,10 @@ strong {
   bottom: 300px;
 }
 
+.mountain {
+  width: 100%;
+}
+
 .skill-row {
   /* margin: top right bottom left (clockwise) 
   margin: top-bottom right-left*/
